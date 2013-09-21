@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "parallax": {}
+    },
+    "packages": {
+      "parallax": {
+        "git": "https://github.com/kidovate/meteor-parallax.git",
+        "tag": "v0.1.2",
+        "commit": "fd3484b3340f4a5a82378cf8bb1f6ac0f908205a"
+      }
+    }
+  }
+}
